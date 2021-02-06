@@ -6,3 +6,6 @@ Features
 - Create Tasks
 - Edit Tasks
 - Delete Tasks
+
+Trello Board included in the project here: 
+https://trello.com/b/jRKkIKTW/todo-list
