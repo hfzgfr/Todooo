@@ -10,4 +10,5 @@ render() {
 }
 }
 
+this.updateLocalStorage();
 export default Task;
